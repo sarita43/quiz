@@ -6,6 +6,7 @@
   </head>
   <body>
     <h1><%= title %></h1>
-    <p>Welcome to <%= title %></p>
-  </body>
+    <p>El portal podra generar sus propios juegos!</p>
+	<p><a href="/quizes/question">Comience a jugar</a></p>																																																					  
+</body>
 </html>
