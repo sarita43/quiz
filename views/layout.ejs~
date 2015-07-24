@@ -24,7 +24,8 @@
 	<spam><a href="/">Inicio</a></spam>
 	<spam><a href="/quizes/question">Preguntas</a></spam>
     <section class="main" id="s1"><%- body%></section>
-	<footer class="main" id="f1"><a href="https://es.wikipedia.org/wiki/Quiz">¿Que es un Quiz?</a></footer>
+	<footer class="main" id="f1"><a href="https://es.wikipedia.org/wiki/Quiz">¿Que es un Quiz?</a>
+<a href="https://github.com/sarita43/quiz">Github</a></footer>
 </div>	  
 </body>
 </html>
